@@ -4,9 +4,9 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=shubhshah-ss&label=Profile%20Views&color=00d4ff&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/shubhshah-ss?label=Followers&style=for-the-badge&color=00d4ff&labelColor=1a1b27)](https://github.com/shubhshah-ss/?tab=follow)
-[![GitHub User's stars](https://img.shields.io/github/stars/shubhshah-ss?style=for-the-badge&color=00d4ff&labelColor=1a1b27)](https://github.com/shubhshah-ss)
+![Profile Views](https://komarev.com/ghpvc/?username=always-shubh&label=Profile%20Views&color=00d4ff&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/always-shubh?label=Followers&style=for-the-badge&color=00d4ff&labelColor=1a1b27)](https://github.com/always-shubh/?tab=follow)
+[![GitHub User's stars](https://img.shields.io/github/stars/always-shubh?style=for-the-badge&color=00d4ff&labelColor=1a1b27)](https://github.com/always-shubh)
 
 </div>
 
@@ -147,26 +147,26 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=shubhshah-ss&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&count_private=true&include_all_commits=true&custom_title=Shubh's%20GitHub%20Stats&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=always-shubh&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&count_private=true&include_all_commits=true&custom_title=Shubh's%20GitHub%20Stats&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=shubhshah-ss&show_icons=true&theme=default&title_color=0969da&icon_color=0969da&text_color=1f2328&count_private=true&include_all_commits=true&custom_title=Shubh's%20GitHub%20Stats&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=always-shubh&show_icons=true&theme=default&title_color=0969da&icon_color=0969da&text_color=1f2328&count_private=true&include_all_commits=true&custom_title=Shubh's%20GitHub%20Stats&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhshah-ss&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&count_private=true&include_all_commits=true&custom_title=Shubh's%20GitHub%20Stats&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=always-shubh&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&count_private=true&include_all_commits=true&custom_title=Shubh's%20GitHub%20Stats&hide_border=true" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhshah-ss&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=10&hide_border=true&custom_title=Most%20Used%20Languages"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=always-shubh&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=10&hide_border=true&custom_title=Most%20Used%20Languages"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhshah-ss&layout=compact&theme=default&title_color=0969da&text_color=1f2328&langs_count=10&hide_border=true&custom_title=Most%20Used%20Languages"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=always-shubh&layout=compact&theme=default&title_color=0969da&text_color=1f2328&langs_count=10&hide_border=true&custom_title=Most%20Used%20Languages"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhshah-ss&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=10&hide_border=true&custom_title=Most%20Used%20Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=always-shubh&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=10&hide_border=true&custom_title=Most%20Used%20Languages" />
 </picture>
 
 </div>
@@ -175,26 +175,26 @@
 
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com?user=shubhshah-ss&theme=dark&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9&hide_border=true"
+    srcset="https://streak-stats.demolab.com?user=always-shubh&theme=dark&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak-stats.demolab.com?user=shubhshah-ss&theme=default&stroke=0969da&ring=0969da&fire=ff6b35&currStreakLabel=0969da&hide_border=true"
+    srcset="https://streak-stats.demolab.com?user=always-shubh&theme=default&stroke=0969da&ring=0969da&fire=ff6b35&currStreakLabel=0969da&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://streak-stats.demolab.com?user=shubhshah-ss&theme=dark&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=always-shubh&theme=dark&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9&hide_border=true" width="49%" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=shubhshah-ss&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"
+    srcset="https://github-profile-trophy.vercel.app/?username=always-shubh&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=shubhshah-ss&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4&title_color=0969da&icon_color=0969da&text_color=1f2328"
+    srcset="https://github-profile-trophy.vercel.app/?username=always-shubh&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4&title_color=0969da&icon_color=0969da&text_color=1f2328"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhshah-ss&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=always-shubh&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" width="49%" />
 </picture>
 
 </div>
@@ -207,27 +207,27 @@
 
 <picture>
   <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=shubhshah-ss&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Shubh's%20Contribution%20Graph"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=always-shubh&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Shubh's%20Contribution%20Graph"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=shubhshah-ss&bg_color=ffffff&color=0969da&line=0969da&point=0969da&area=true&hide_border=true&custom_title=Shubh's%20Contribution%20Graph"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=always-shubh&bg_color=ffffff&color=0969da&line=0969da&point=0969da&area=true&hide_border=true&custom_title=Shubh's%20Contribution%20Graph"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhshah-ss&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Shubh's%20Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=always-shubh&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Shubh's%20Contribution%20Graph" width="100%" />
 </picture>
 
 ### 🐍 Contribution Snake
 <picture>
   <source
-    srcset="https://raw.githubusercontent.com/shubhshah-ss/shubhshah-ss/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/always-shubh/always-shubh/output/github-contribution-grid-snake-dark.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://raw.githubusercontent.com/shubhshah-ss/shubhshah-ss/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/always-shubh/always-shubh/output/github-contribution-grid-snake.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://raw.githubusercontent.com/shubhshah-ss/shubhshah-ss/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
+  <img src="https://raw.githubusercontent.com/always-shubh/always-shubh/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
 </picture>
 
 </div>
@@ -241,9 +241,9 @@
 <tr>
 <td width="50%">
 
-### 🌟 [AI-Powered SaaS Platform](https://github.com/shubhshah-ss/ai-saas)
+### 🌟 [AI-Powered SaaS Platform](https://github.com/always-shubh/ai-saas)
 ![Project Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge&logo=vercel)
-![GitHub stars](https://img.shields.io/github/stars/shubhshah-ss/ai-saas?style=social)
+![GitHub stars](https://img.shields.io/github/stars/always-shubh/ai-saas?style=social)
 
 **Next.js • OpenAI • Stripe • Prisma**
 
@@ -255,9 +255,9 @@ AI-powered content generation platform with subscription management
 </td>
 <td width="50%">
 
-### 🛡️ [Blockchain Voting System](https://github.com/shubhshah-ss/blockchain-voting)
+### 🛡️ [Blockchain Voting System](https://github.com/always-shubh/blockchain-voting)
 ![Project Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge&logo=ethereum)
-![GitHub stars](https://img.shields.io/github/stars/shubhshah-ss/blockchain-voting?style=social)
+![GitHub stars](https://img.shields.io/github/stars/always-shubh/blockchain-voting?style=social)
 
 **Solidity • React • Web3.js • IPFS**
 
@@ -271,9 +271,9 @@ Decentralized voting platform ensuring transparency and security
 <tr>
 <td width="50%">
 
-### 📱 [React Native E-Commerce](https://github.com/shubhshah-ss/rn-ecommerce)
+### 📱 [React Native E-Commerce](https://github.com/always-shubh/rn-ecommerce)
 ![Project Demo](https://img.shields.io/badge/Download-App_Store-blue?style=for-the-badge&logo=app-store)
-![GitHub stars](https://img.shields.io/github/stars/shubhshah-ss/rn-ecommerce?style=social)
+![GitHub stars](https://img.shields.io/github/stars/always-shubh/rn-ecommerce?style=social)
 
 **React Native • Firebase • Redux • Stripe**
 
@@ -285,9 +285,9 @@ Modern e-commerce app with AR product preview
 </td>
 <td width="50%">
 
-### 🤖 [ML Model Deployment Platform](https://github.com/shubhshah-ss/ml-platform)
+### 🤖 [ML Model Deployment Platform](https://github.com/always-shubh/ml-platform)
 ![Project Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge&logo=python)
-![GitHub stars](https://img.shields.io/github/stars/shubhshah-ss/ml-platform?style=social)
+![GitHub stars](https://img.shields.io/github/stars/always-shubh/ml-platform?style=social)
 
 **FastAPI • Docker • Kubernetes • TensorFlow**
 
@@ -372,7 +372,7 @@ const shubh = {
 
 ## 🎵 Currently Jamming To
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=shubhshah-ss&count=1&unique=true&width=300)](https://open.spotify.com/user/shubhshah-ss)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=always-shubh&count=1&unique=true&width=300)](https://open.spotify.com/user/always-shubh)
 
 </div>
 
